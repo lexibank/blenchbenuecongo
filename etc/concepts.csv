@@ -1,0 +1,135 @@
+ID,NUMBER,ENGLISH,FRENCH,CONCEPTICON_ID,CONCEPTICON_GLOSS
+Williamson-1973-134-1,001,animal,animal,619,ANIMAL
+Williamson-1973-134-2,002,arm: hand,bras,2121,ARM OR HAND
+Williamson-1973-134-3,002,arm: hand,main,2121,ARM OR HAND
+Williamson-1973-134-4,003,armpit,aisselle,1886,ARMPIT
+Williamson-1973-134-5,004,arrow,flèche,977,ARROW
+Williamson-1973-134-6,005,ashes,cendres,646,ASH
+Williamson-1973-134-7,006,ask (a question),demander,1309,ASK (INQUIRE)
+Williamson-1973-134-8,007,"bad, be",(être) mauvais,1292,BAD
+Williamson-1973-134-9,008,bean,haricot,832,BEAN
+Williamson-1973-134-10,009,beg (=ask for something),mendier,1828,ASK (REQUEST)
+Williamson-1973-134-11,010,belly,ventre,1251,BELLY
+Williamson-1973-134-12,011,bite,mordre,1403,BITE
+Williamson-1973-134-13,012,buffalo,buffle,934,BUFFALO
+Williamson-1973-134-14,013,build,"construire, bâtir",1840,BUILD
+Williamson-1973-134-15,014,calabash,calebasse,411,GOURD
+Williamson-1973-134-16,015,carve,tailler,228,CARVE
+Williamson-1973-134-17,016,charcoal (coal),charbon de bois,2659,CHARCOAL OR COAL
+Williamson-1973-134-18,017,child,enfant,2099,CHILD
+Williamson-1973-134-19,018,come out,sortir,1107,
+Williamson-1973-134-20,019,"cool, be(come)",se refroidir,1287,COLD
+Williamson-1973-134-21,020,corpse,cadavre,767,CORPSE
+Williamson-1973-134-22,021,count: draw a line:: reckon,compter,1420,COUNT
+Williamson-1973-134-23,022,cow,vache,1007,COW
+Williamson-1973-134-24,023,crab,crabe,2348,CRAB
+Williamson-1973-134-25,024,crocodile,crocodile,1857,CROCODILE
+Williamson-1973-134-26,025,dance v.,danser,1879,
+Williamson-1973-134-27,026,depth (of water),profondeur,2534,DEPTH
+Williamson-1973-134-28,027,die: death,mourir,2101,DIE OR BE DEAD
+Williamson-1973-134-29,027,die: death,(la) mort,2101,DIE OR BE DEAD
+Williamson-1973-134-30,028,divide,"diviser, séparer",1119,DIVIDE
+Williamson-1973-134-31,029,draw (water),puiser (de l'eau),1911,DRAW (WATER)
+Williamson-1973-134-32,030,"dry, become",devenir sec et dur,1786,DRY UP
+Williamson-1973-134-33,030,"dry, become",(être) sec,1786,DRY UP
+Williamson-1973-134-34,031,ear,oreille,1247,EAR
+Williamson-1973-134-35,032,eat,manger,1336,EAT
+Williamson-1973-134-36,033,egg,oeuf,744,EGG
+Williamson-1973-134-37,034,elephant,éléphant,1290,ELEPHANT
+Williamson-1973-134-38,035,"extinguished, be",être éteint,2209,BECOME EXTINGUISHED
+Williamson-1973-134-39,036,eye,oeil,1248,EYE
+Williamson-1973-134-40,037,fall,tomber,1280,FALL
+Williamson-1973-134-41,038,fat: oil,graisse,2551,ORGANIC FAT OR OIL
+Williamson-1973-134-42,038,fat: oil,huile,2551,ORGANIC FAT OR OIL
+Williamson-1973-134-43,039,fear,"peur, crainte",1419,FEAR (BE AFRAID)
+Williamson-1973-134-44,040,female,féminin,1551,FEMALE
+Williamson-1973-134-45,041,firewood,bois à brûler,10,FIREWOOD
+Williamson-1973-134-46,042,forest,forêt,420,FOREST
+Williamson-1973-134-47,043,fowl (chicken),poulet,265,FOWL
+Williamson-1973-134-48,044,fry (bake in ashes),frire,2146,ROAST OR FRY
+Williamson-1973-134-49,045,"give: ""dash""",donner,1447,GIVE
+Williamson-1973-134-50,046,go: walk,aller,695,GO
+Williamson-1973-134-51,046,go: walk,marcher,695,GO
+Williamson-1973-134-52,047,grasshopper,sauterelle,607,GRASSHOPPER
+Williamson-1973-134-53,048,grow: become strong,croître,552,GROW UP
+Williamson-1973-134-54,049,guineafowl,pintade,,
+Williamson-1973-134-55,050,head,tête,1256,HEAD
+Williamson-1973-134-56,051,heart,coeur,1223,HEART
+Williamson-1973-134-57,052,heavy,(être) lourd,1210,HEAVY
+Williamson-1973-134-58,053,hoe: cultivate,cultiver,1541,CULTIVATE
+Williamson-1973-134-59,053,hoe: cultivate,biner,1541,CULTIVATE
+Williamson-1973-134-60,054,kill,tuer,1417,KILL
+Williamson-1973-134-61,055,leg: foot,jambe,2098,FOOT OR LEG
+Williamson-1973-134-62,055,leg: foot,pied,2098,FOOT OR LEG
+Williamson-1973-134-63,056,"leopard: ""panther""",léopard,1139,LEOPARD
+Williamson-1973-134-64,057,lie down: stretch oneself:: sleep,se coucher,215,LIE DOWN
+Williamson-1973-134-65,057,lie down: stretch oneself:: sleep,dormir,215,LIE DOWN
+Williamson-1973-134-66,058,lick,lécher,319,LICK
+Williamson-1973-134-67,059,man: husband,homme (mâle),2646,HUSBAND OR MALE PERSON
+Williamson-1973-134-68,060,meat,viande,634,MEAT
+Williamson-1973-134-69,061,mould,moule (poterie),1166,MOULD
+Williamson-1973-134-70,062,mount,monter,705,GO UP (ASCEND)
+Williamson-1973-134-71,063,name,nom,1405,NAME
+Williamson-1973-134-72,064,night: day of 24 hours,nuit,1233,NIGHT
+Williamson-1973-134-73,065,fan palm,palmier ??,,
+Williamson-1973-134-74,065.1,oil palm,palmier à huile,,
+Williamson-1973-134-75,065.2,dum palm,dômier,,
+Williamson-1973-134-76,066,person,personne,683,PERSON
+Williamson-1973-134-77,067,pig (domestic): (wild),"porc, cochon",1337,PIG
+Williamson-1973-134-78,068,press: squeeze out:: milk,extraire,93,DRAW MILK
+Williamson-1973-134-79,069,quarrel v. and n.,querelle,1848,QUARREL
+Williamson-1973-134-80,070,raphia palm (vinifera): (hookeri):: date palm,raphia,,
+Williamson-1973-134-81,070,raphia palm (vinifera): (hookeri):: date palm,dattier,,
+Williamson-1973-134-82,071,refuse: retain,refuser,49,REFUSE
+Williamson-1973-134-83,072,resemble: be equal to,ressembler,1777,RESEMBLE
+Williamson-1973-134-84,073,road: path,"chemin, route",2457,PATH OR ROAD
+Williamson-1973-134-85,074,roast on coals,rôtir,1962,
+Williamson-1973-134-86,075,rot,pourriture,1728,
+Williamson-1973-134-87,076,rubbish heap,"dépotoir, ""poubelle""",,
+Williamson-1973-134-88,077,send: work,envoyer en commission,1127,SEND
+Williamson-1973-134-89,078,set a trap,tendre (un piège),,
+Williamson-1973-134-90,079,sew,coudre,1457,SEW
+Williamson-1973-134-91,080,shine: be light: be white,briller,1335,WHITE
+Williamson-1973-134-92,080,shine: be light: be white,(être) blanc,1335,WHITE
+Williamson-1973-134-93,081,sing,chanter,1261,SING
+Williamson-1973-134-94,082,skin: hide:: bark,peau (d'homme),2127,BARK OR SKIN
+Williamson-1973-134-95,082,skin: hide:: bark,peau (d'animal),2127,BARK OR SKIN
+Williamson-1973-134-96,082,skin: hide:: bark,écorce (d'arbre),2127,BARK OR SKIN
+Williamson-1973-134-97,083,smell v.,sentir (par le nez),2124,SMELL
+Williamson-1973-134-98,084,snake,serpent,730,SNAKE
+Williamson-1973-134-99,085,song,"chant, chanson",1096,SONG
+Williamson-1973-134-100,086,speak,parler,1623,SPEAK
+Williamson-1973-134-101,087,spit,cracher,1440,SPIT
+Williamson-1973-134-102,088,spread in sun to dry,étaler (maïs),,
+Williamson-1973-134-103,089,"sticky, be","(être) gluant, poisseux, collant",254,STICKING
+Williamson-1973-134-104,090,stone: rock,caillou,2125,STONE OR ROCK
+Williamson-1973-134-105,091,take out of: empty,"enlever, sortir (d'un récipient)",,
+Williamson-1973-134-106,092,thing,chose,738,THING
+Williamson-1973-134-107,093,tongue: language,"langue, langage",1205,TONGUE
+Williamson-1973-134-108,093,tongue: language,langue,1205,TONGUE
+Williamson-1973-134-109,094,tooth,dent,1380,TOOTH
+Williamson-1973-134-110,095,tortoise,tortue (terrestre),895,TORTOISE
+Williamson-1973-134-111,096,tree,arbre,906,TREE
+Williamson-1973-134-112,097,twin,jumeau,,
+Williamson-1973-134-113,098,want: lack:: seek,"vouloir, désirer",1784,WANT
+Williamson-1973-134-114,099,war,guerre,935,WAR
+Williamson-1973-134-115,100,water,eau,948,WATER
+Williamson-1973-134-116,101,wing,aile,1257,WING
+Williamson-1973-134-117,102,woman: wife,femme,962,WOMAN
+Williamson-1973-134-118,102,woman: wife,"femme, épouse",962,WOMAN
+Williamson-1973-134-119,103,one,un (1),1493,ONE
+Williamson-1973-134-120,104,two,deux (2),1498,TWO
+Williamson-1973-134-121,105,three,trois (3),492,THREE
+Williamson-1973-134-122,106,four,quatre (4),1500,FOUR
+Williamson-1973-134-123,107,five,cinq (5),493,FIVE
+Williamson-1973-134-124,108,six,six (6),1703,SIX
+Williamson-1973-134-125,109,seven,sept (7),1704,SEVEN
+Williamson-1973-134-126,110,eight,huit (8),1705,EIGHT
+Williamson-1973-134-127,111,nine,neuf (9),1483,NINE
+Williamson-1973-134-128,112,ten,dix (10),1515,TEN
+Williamson-1973-134-129,113,fifteen,quinze (15),1709,FIFTEEN
+Williamson-1973-134-130,114,twenty,vingt (20),1710,TWENTY
+Williamson-1973-134-131,115,one hundred,cent (100),1634,HUNDRED
+Williamson-1973-134-132,115.1,two hundred,deux cents (200),,
+Williamson-1973-134-133,116,four hundred,quatre cent,,
+Williamson-1973-134-134,117,one thousand,mille (1000),1843,THOUSAND

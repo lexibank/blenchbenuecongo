@@ -1,0 +1,74 @@
+BNC ID,Gloss,Phonetic,Word Category,Pl Phonetic
+001,ANIMAL,jap,,
+007,"BAD (BE), TO",kambei (?),,
+010,BELLY,bon,,
+011,BITE,-dom,V,
+012,BUFFALO,ɔ-mɔn,,
+017,CHILD,wøn,,
+027,DIE: DEATH,"-tɔ (?), -wot",,
+033,EGG,e-kiŋ  u-nɔn,,
+034,ELEPHANT,e-ɲie,,
+036,EYE,ɲen,,
+038,"FAT, OIL, GREASE","duep, nɔi",,
+043,CHICKEN/FOWL,u-nɔn,,
+045,"GIVE, TO",ɲaɲ,,
+050,HEAD,dénò,,
+052,HEAVY,kandu,,
+055,"LEG, FOOT",i-jɔn,,ke-kpat
+056,LEOPARD (‘PANTHER’),e-we,,
+057,"LIE DOWN, STRETCH ONESELF, SLEEP, TO",-dat,,
+060,MEAT,jâp,,
+061,MOULD TO,nìɛ̀,,
+062,"MOUNT, TO",nèɣí,,
+063,NAME,"sîn (sí-în ?) jî, jɔ̂, è-",,
+064,NIGHT: DAY OF 24 HOURS,"dɛ́í (dɛ́-í ?), dé-wé",,"- (dì, dɔ̀,ˋ-(or dè-?), dì, dɔ̀, dè-)"
+065,FAN PALM (BORASSUS AETHIOPUM),dé-dè,,"- (dî, dɔ̂, dè-)"
+065.1,OIL PALM (ELAEIS GUINEENSIS),dé-dè,,"- (dî, dɔ̂, dè-)"
+066,PERSON,"(wù, wɔ, ò-)",,"(bì, bɔ̀, bɛ̀-)"
+067,"PIG (DOMESTIC, WILD)","*ɲeɲie; ɲé-ɲéí, ɲé-ɲéí (‘ú-dìm)",,
+068,"PRESS, SQUEEZE OUT, MILK",ŋwɛ̀k ɲɪ̀má,,
+069,QUARREL,nàŋ dú-kán,"V, N","- (du, dɔ̀, dù-); í-kɔ̀máŋ̀kɔ̀m (jî, jɔ̂, ì-)"
+071,"REFUSE, RETAIN, TO","sɪ́n, mɪ̀má",,
+072,"RESEMBLE, BE EQUAL TO","kèní, kɛ́nɛ́",,
+073,ROAD: PATH,dù-tón,,"é-nɪ́n- (dù, dɔ̀, dù-)- (jì, jɔ̀, è-)"
+074,"ROAST ON COALS, TO",wɔ̀; kɨ́p-,,
+076,RUBBISH-HEAP,kú-ó’ní,,"- (kì, kɔ̀, kè-)"
+077,SEND: WORK,nèm kè-ném,,"- (kì, kɔ̀, kè-)"
+078,"TRAP, TO SET A",kàmí (dú-núk ˉ,,"- (dù, dɔ̀, dù-)"
+079,"SEW, TO",kìm,,
+080,"SHINE, BE LIGHT, BE WHITE TO","kpɛ̂m; bǎtˉ, ó-bòtˉ í-bòtˉ dj.); bòrá",,
+081,SING,òɔ̀n (ké-nɔ́m); kà-ŋgwòɔ̀n (inf.),,
+082,"SKIN, HIDE, BARK","bú-óŋ (;bé-kétˉ ),bú-óŋ (ân-ɟjâp î ) bî, bɔ̂, bù- ",,"-;-- (bè-) (bû, bɔ̂, bù-)"
+083,SMELL (OF): SMELL (TR.),"ɲókˉ, nɔ̀ŋɔ́  ké-ɲókˉ",,"-  kì, kɔ̀, kè-"
+084,SNAKE,é-nú,,"- (jì, jɔ̀, è-)"
+085,SONG,ké-nɔ́m,,"- (kì, kɔ̀, kè-)"
+086,"SPEAK, TO",tǎŋ,,
+087,TO SPIT,dùòmá; ú-’náí,,"- (wù, wɔ̀, ù-)"
+088,"SPREAD IN SUN TO DRY, TO",ŋwàná,,
+090,"STONE, ROCK",ú-’nán,,"- (wù, wɔ̀, ù-)"
+091,TAKE OUT OF: EMPTY,"tùɔ̀, kébì; bìɛ́n",,
+092,THING,"bí-ên, (bû, bɔ̂, bù-)",,"bé-kùɔ̀, (bî, bɔ̂, bè-)"
+093,"TONGUE, LANGUAGE","dé-dà, é-sɔ́p-, dú-ɔ̀ŋ",,"-; dî, dɔ̂, dè-, - jì, jɔ̀, è-; - (dú-ɔ̀ŋ?) dû, dɔ"
+094,TOOTH,dɛ́-nɛ́n,,"- (dì, dɔ̀, dè-)"
+095,TORTOISE,kú-ûn,,"- (kî, kɔ̂, kè-)"
+096,TREE,kè-bî,,"bɔ̂, bè-"
+098,WANT (DESIRE): LACK SEEK,"búâŋ, nàp-",,
+099,WAR,dú-ôŋ,,"- (dû, dɔ̂, dù-)"
+100,WATER,ń-ní,,"- (jì, jɔ̀, ǹ-)"
+101,WING,ké-búôpˉ,,"- (kî, kɔ̂, kè-)"
+102,"WOMAN, WIFE","á-tùòn ~á-’túòn (wû,wɔ̂,ò-)",,"bá- (bî,bɔ̂,bè-)"
+103,ONE,ó-ndé~dɛ́-ndé,,
+104,TWO,ó-án ~dé-án,,
+106,FOUR,ó-náí ~ dé-náí,,
+107,FIVE,ó-’nɛ́n~dí-’nɛ́n,,
+108,SIX,ó-’nɛ́n-ó-ndé ~dí-’nɛ́n-nɛ́-dɛ́-ńdé,,
+109,SEVEN,ó-’nɛ́n-ɔ́-án ~dí-’nɛ́n-ná-dí-án,,
+110,EIGHT,ó-’nɛ́n-ɔ́-nàn ~ dí-’nɛ́n-ná-dí-nàn,,
+111,NINE,ó-’nɛ́n-ó-náí ~ dí-’nɛ́n-ná-dí-náí,,
+112,TEN,síò,,
+113,FIFTEEN,dé-wún,,
+114,TWENTY,dé-nù,,
+115,HUNDRED,dé-nù ó-’nɛ́n ~ dé-nù dí-’nɛ́n,,
+115.1,TWO HUNDRED,dé-nù ó-’nɛ́n ó-án ~ dé-nù dé-’nɛ́n dí-án,,
+116,FOUR HUNDRED,dé-nù ó-’nɛ́n ó-náí ~ dé-nù dé-’nɛ́ndí-náí,,
+
