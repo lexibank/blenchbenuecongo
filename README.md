@@ -18,17 +18,16 @@ Available online at http://comparalex.org/?page=stdlist&id=17
 
 - **Varieties:** 131
 - **Concepts:** 116
-- **Lexemes:** 12,262
+- **Lexemes:** 12,307
 - **Synonymy:** 1.15
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 58,484
-- **Segments:** 511 (229 BIPA errors, 231 CTLS sound class errors, 282 CLTS modified)
-- **Inventory size (avg):** 57.89
+- **Tokens:** 61,943
+- **Segments:** 510 (229 BIPA errors, 231 CTLS sound class errors, 281 CLTS modified)
+- **Inventory size (avg):** 58.98
 
 ## Possible Improvements:
 
-- Languages missing glottocodes: 131/131 (100.00%)
-- Entries missing sources: 12262/12262 (100.00%)
-- Entries missing concepts: 0/12262 (0.00%)
 
+
+- Entries missing sources: 12307/12307 (100.00%)

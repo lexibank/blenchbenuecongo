@@ -4,7 +4,9 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://comparalex.org/?page=stdlist&id=17",
     "dc:title": "Benue-Congo Comparative Word List",
+    "dcat:accessURL": "https://github.com/lexibank/blenchbenuecongo",
     "rdf:ID": "blenchbenuecongo",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -12,15 +14,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 12262,
+            "dc:extent": 12307,
             "tableSchema": {
                 "columns": [
                     {
@@ -183,6 +185,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "French"
                     }
                 ],
                 "primaryKey": [
@@ -197,7 +203,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
