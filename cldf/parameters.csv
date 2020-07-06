@@ -1,117 +1,117 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,French
-001,animal,619,ANIMAL,
-003,armpit,1886,ARMPIT,
-004,arrow,977,ARROW,
-005,ashes,646,ASH,
-006,ask (a question),1309,ASK (INQUIRE),
-007,"bad, be",1292,BAD,
-008,bean,832,BEAN,
-009,beg (=ask for something),1828,ASK (REQUEST),
-010,belly,1251,BELLY,
-011,bite,1403,BITE,
-012,buffalo,934,BUFFALO,
-013,build,1840,BUILD,
-014,calabash,411,GOURD,
-015,carve,228,CARVE,
-016,charcoal (coal),2659,CHARCOAL OR COAL,
-017,child,2099,CHILD,
-018,come out,1107,,
-019,"cool, be(come)",1287,COLD,
-020,corpse,767,CORPSE,
-021,count: draw a line:: reckon,1420,COUNT,
-022,cow,1007,COW,
-023,crab,2348,CRAB,
-024,crocodile,1857,CROCODILE,
-025,dance v.,1879,,
-026,depth (of water),2534,DEPTH,
-027,die: death,2101,DIE OR BE DEAD,
-028,divide,1119,DIVIDE,
-029,draw (water),1911,DRAW (WATER),
-030,"dry, become",1786,DRY UP,
-031,ear,1247,EAR,
-032,eat,1336,EAT,
-033,egg,744,EGG,
-034,elephant,1290,ELEPHANT,
-035,"extinguished, be",2209,BECOME EXTINGUISHED,
-036,eye,1248,EYE,
-037,fall,1280,FALL,
-038,fat: oil,2551,ORGANIC FAT OR OIL,
-039,fear,1419,FEAR (BE AFRAID),
-040,female,1551,FEMALE,
-041,firewood,10,FIREWOOD,
-042,forest,420,FOREST,
-043,fowl (chicken),265,FOWL,
-044,fry (bake in ashes),2146,ROAST OR FRY,
-045,"give: ""dash""",1447,GIVE,
-046,go: walk,695,GO,
-047,grasshopper,607,GRASSHOPPER,
-048,grow: become strong,552,GROW UP,
-049,guineafowl,,,
-050,head,1256,HEAD,
-051,heart,1223,HEART,
-052,heavy,1210,HEAVY,
-053,hoe: cultivate,1541,CULTIVATE,
-054,kill,1417,KILL,
-055,leg: foot,2098,FOOT OR LEG,
-056,"leopard: ""panther""",1139,LEOPARD,
-057,lie down: stretch oneself:: sleep,215,LIE DOWN,
-058,lick,319,LICK,
-060,meat,634,MEAT,
-061,mould,1166,MOULD,
-062,mount,705,GO UP (ASCEND),
-063,name,1405,NAME,
-064,night: day of 24 hours,1233,NIGHT,
-065,fan palm,,,
-065-1,oil palm,,,
-066,person,683,PERSON,
-067,pig (domestic): (wild),1337,PIG,
-068,press: squeeze out:: milk,93,DRAW MILK,
-069,quarrel v. and n.,1848,QUARREL,
-070,raphia palm (vinifera): (hookeri):: date palm,,,
-071,refuse: retain,49,REFUSE,
-072,resemble: be equal to,1777,RESEMBLE,
-073,road: path,2457,PATH OR ROAD,
-074,roast on coals,1962,,
-075,rot,1728,,
-076,rubbish heap,,,
-077,send: work,1127,SEND,
-078,set a trap,,,
-079,sew,1457,SEW,
-080,shine: be light: be white,1335,WHITE,
-081,sing,1261,SING,
-082,skin: hide:: bark,2127,BARK OR SKIN,
-083,smell v.,2124,SMELL,
-084,snake,730,SNAKE,
-085,song,1096,SONG,
-086,speak,1623,SPEAK,
-087,spit,1440,SPIT,
-088,spread in sun to dry,,,
-089,"sticky, be",254,STICKING,
-090,stone: rock,2125,STONE OR ROCK,
-091,take out of: empty,,,
-092,thing,738,THING,
-093,tongue: language,1205,TONGUE,
-094,tooth,1380,TOOTH,
-095,tortoise,895,TORTOISE,
-096,tree,906,TREE,
-097,twin,,,
-098,want: lack:: seek,1784,WANT,
-099,war,935,WAR,
-100,water,948,WATER,
-101,wing,1257,WING,
-102,woman: wife,962,WOMAN,
-103,one,1493,ONE,
-104,two,1498,TWO,
-106,four,1500,FOUR,
-107,five,493,FIVE,
-108,six,1703,SIX,
-109,seven,1704,SEVEN,
-110,eight,1705,EIGHT,
-111,nine,1483,NINE,
-112,ten,1515,TEN,
-113,fifteen,1709,FIFTEEN,
-114,twenty,1710,TWENTY,
-115,one hundred,1634,HUNDRED,
-115-1,two hundred,,,
-116,four hundred,,,
-117,one thousand,1843,THOUSAND,
+001,animal,619,ANIMAL,animal
+003,armpit,1886,ARMPIT,aisselle
+004,arrow,977,ARROW,flèche
+005,ashes,646,ASH,cendres
+006,ask (a question),1309,ASK (INQUIRE),demander
+007,"bad, be",1292,BAD,(être) mauvais
+008,bean,832,BEAN,haricot
+009,beg (=ask for something),1828,ASK (REQUEST),mendier
+010,belly,1251,BELLY,ventre
+011,bite,1403,BITE,mordre
+012,buffalo,934,BUFFALO,buffle
+013,build,1840,BUILD,"construire, bâtir"
+014,calabash,411,GOURD,calebasse
+015,carve,228,CARVE,tailler
+016,charcoal (coal),2659,CHARCOAL OR COAL,charbon de bois
+017,child,2099,CHILD,enfant
+018,come out,1107,GO OUT,sortir
+019,"cool, be(come)",1287,COLD,se refroidir
+020,corpse,767,CORPSE,cadavre
+021,count: draw a line:: reckon,1420,COUNT,compter
+022,cow,1007,COW,vache
+023,crab,2348,CRAB,crabe
+024,crocodile,1857,CROCODILE,crocodile
+025,dance v.,1879,DANCE,danser
+026,depth (of water),2534,DEPTH,profondeur
+027,die: death,2101,BE DEAD OR DIE,mourir
+028,divide,1119,DIVIDE,"diviser, séparer"
+029,draw (water),1911,DRAW (WATER),puiser (de l'eau)
+030,"dry, become",1786,DRY UP,devenir sec et dur
+031,ear,1247,EAR,oreille
+032,eat,1336,EAT,manger
+033,egg,744,EGG,oeuf
+034,elephant,1290,ELEPHANT,éléphant
+035,"extinguished, be",2209,BECOME EXTINGUISHED,être éteint
+036,eye,1248,EYE,oeil
+037,fall,1280,FALL,tomber
+038,fat: oil,2551,ORGANIC FAT OR OIL,graisse
+039,fear,1419,FEAR (BE AFRAID),"peur, crainte"
+040,female,1551,FEMALE,féminin
+041,firewood,10,FIREWOOD,bois à brûler
+042,forest,420,FOREST,forêt
+043,fowl (chicken),265,FOWL,poulet
+044,fry (bake in ashes),2146,ROAST OR FRY,frire
+045,"give: ""dash""",1447,GIVE,donner
+046,go: walk,695,GO,aller
+047,grasshopper,607,GRASSHOPPER,sauterelle
+048,grow: become strong,552,GROW UP,croître
+049,guineafowl,,,pintade
+050,head,1256,HEAD,tête
+051,heart,1223,HEART,coeur
+052,heavy,1210,HEAVY,(être) lourd
+053,hoe: cultivate,1541,CULTIVATE,cultiver
+054,kill,1417,KILL,tuer
+055,leg: foot,2098,FOOT OR LEG,jambe
+056,"leopard: ""panther""",1139,LEOPARD,léopard
+057,lie down: stretch oneself:: sleep,215,LIE DOWN,se coucher
+058,lick,319,LICK,lécher
+060,meat,634,MEAT,viande
+061,mould,1166,MOULD,moule (poterie)
+062,mount,705,GO UP (ASCEND),monter
+063,name,1405,NAME,nom
+064,night: day of 24 hours,1233,NIGHT,nuit
+065,fan palm,,,palmier ??
+065-1,oil palm,,,palmier à huile
+066,person,683,PERSON,personne
+067,pig (domestic): (wild),1337,PIG,"porc, cochon"
+068,press: squeeze out:: milk,93,DRAW MILK,extraire
+069,quarrel v. and n.,1848,QUARREL,querelle
+070,raphia palm (vinifera): (hookeri):: date palm,,,raphia
+071,refuse: retain,49,REFUSE,refuser
+072,resemble: be equal to,1777,RESEMBLE,ressembler
+073,road: path,2457,PATH OR ROAD,"chemin, route"
+074,roast on coals,1962,ROAST (SOMETHING),rôtir
+075,rot,1728,ROTTEN,pourriture
+076,rubbish heap,,,"dépotoir, ""poubelle"""
+077,send: work,1127,SEND,envoyer en commission
+078,set a trap,,,tendre (un piège)
+079,sew,1457,SEW,coudre
+080,shine: be light: be white,1335,WHITE,briller
+081,sing,1261,SING,chanter
+082,skin: hide:: bark,2127,BARK OR SKIN,peau (d'homme)
+083,smell v.,2124,SMELL,sentir (par le nez)
+084,snake,730,SNAKE,serpent
+085,song,1096,SONG,"chant, chanson"
+086,speak,1623,SPEAK,parler
+087,spit,1440,SPIT,cracher
+088,spread in sun to dry,,,étaler (maïs)
+089,"sticky, be",254,STICKING,"(être) gluant, poisseux, collant"
+090,stone: rock,2125,STONE OR ROCK,caillou
+091,take out of: empty,,,"enlever, sortir (d'un récipient)"
+092,thing,738,THING,chose
+093,tongue: language,1205,TONGUE,"langue, langage"
+094,tooth,1380,TOOTH,dent
+095,tortoise,895,TORTOISE,tortue (terrestre)
+096,tree,906,TREE,arbre
+097,twin,,,jumeau
+098,want: lack:: seek,1784,WANT,"vouloir, désirer"
+099,war,935,WAR,guerre
+100,water,948,WATER,eau
+101,wing,1257,WING,aile
+102,woman: wife,962,WOMAN,femme
+103,one,1493,ONE,un (1)
+104,two,1498,TWO,deux (2)
+106,four,1500,FOUR,quatre (4)
+107,five,493,FIVE,cinq (5)
+108,six,1703,SIX,six (6)
+109,seven,1704,SEVEN,sept (7)
+110,eight,1705,EIGHT,huit (8)
+111,nine,1483,NINE,neuf (9)
+112,ten,1515,TEN,dix (10)
+113,fifteen,1709,FIFTEEN,quinze (15)
+114,twenty,1710,TWENTY,vingt (20)
+115,one hundred,1634,HUNDRED,cent (100)
+115-1,two hundred,,,deux cents (200)
+116,four hundred,,,quatre cent
+117,one thousand,1843,THOUSAND,mille (1000)

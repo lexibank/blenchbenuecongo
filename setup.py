@@ -4,7 +4,7 @@ import json
 
 
 PY2 = sys.version_info.major == 2
-with open('metadata.json', **({} if PY2 else {'encoding': 'utf-8'})) as fp:
+with open('metadata.json') as fp:
     metadata = json.load(fp)
 
 
@@ -22,6 +22,6 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=0.11',
+        'pylexibank>=2.0',
     ]
 )

@@ -1,132 +1,132 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
-191,Doka,doka1242,,dbi,,
-247,Lungu (Idun),idun1241,,ldb,,
-296,Nkwen Mandankwe (Mendankwe-Nkwen),mend1261,,mfd,,
-295,Nkwen (Mendankwe-Nkwen),mend1261,,mfd,,
-208,Alege,aleg1238,,alf,,
-278,"Mbembe Adun (Mbembe, Cross River)",cros1244,,mfn,,
-224,Mbe,mbee1249,,mfo,,
-301,Ngwe Fontem (Ngwe),ngwe1238,,nwe,,
-231,Ngwe,ngwe1238,,nwe,,
-275,Akunakuna of Thomas (Agwagwune),agwa1247,,yay,,
-237,Kamuku of Rowlands (Cinda-Regi-Tiyal),cind1241,,cdr,,
-243,Janji,janj1240,,jni,,
-189,Sheni,shen1250,,scv,,
-229,Kom,komc1235,,bkm,,
-267,Jibu,jibu1239,,jib,,
-268,Jibu in Meek (Jibu),jibu1239,,jib,,
-230,Bafut,bafu1246,,bfd,,
-234,Medumba,medu1238,,byv,,
-297,Megaka (Mengaka),meng1264,,xmg,,
-282,Zhar (Jarawa),jara1263,,jar,,
-283,Gingwak (Jarawa),jara1263,,jar,,
-184,Piti,piti1243,,pcn,,
-311,Mbo Central (Bakaka),baka1273,,bqz,,
-200,Tyap,tyap1238,,kcg,,
-262,Sholio (Tyap),tyap1238,,kcg,,
-249,Vaghat (Vaghat-Ya-Bijim-Legeri),vagh1247,,bij,,
-250,Ya (Vaghat-Ya-Bijim-Legeri),vagh1247,,bij,,
-186,Amo,amoo1242,,amo,,
-228,Meta',meta1238,,mgo,,
-220,Kiong,kion1242,,kkm,,
-233,Mungaka,mung1266,,mhk,,
-194,Cori,cori1240,,cry,,
-308,Shu Pamen (Bamun),bamu1253,,bax,,
-193,Shamang,sham1277,,xsh,,
-264,Eregba (Kpan),kpan1246,,kpk,,
-280,Batu of Meek (Batu),batu1255,,btu,,
-207,Bete-Bendi,bete1262,,btt,,
-196,Che,chee1238,,ruk,,
-227,Nnam,nnam1238,,nbp,,
-217,Nkukoli,nkuk1238,,nbo,,
-284,Ekparabong (Ndoe),ndoe1238,,nbb,,
-285,Balep (Ndoe),ndoe1238,,nbb,,
-252,Nindem (Kaningkom-Nindem),kani1277,,kdp,,
-265,Kentu (Etkywan),etky1238,,ich,,
-266,Nyidu (Etkywan),etky1238,,ich,,
-298,Ngomba Bamendjina (Ngomba),ngom1272,,jgo,,
-181,Reshe,resh1242,,res,,
-225,Abanyom,aban1242,,abm,,
-221,Abon,abon1238,,abo,,
-310,East Oroko (Oroko),orok1266,,bdu,,
-260,Rigwe (Irigwe),irig1241,,iri,,
-261,Northeast Izere (Izere),izer1241,,izr,,
-199,Jju,jjuu1238,,kaj,,
-215,Umon,umon1238,,umm,,
-293,Lower Kenyang (Kenyang),keny1279,,ken,,
-213,Kukele,kuke1242,,kez,,
-273,Ufia (Oring),orin1239,,org,,
-274,Okpoto (Oring),orin1239,,org,,
-276,Olulumo (Olulumo-Ikom),olul1245,,iko,,
-277,Ikom (Olulumo-Ikom),olul1245,,iko,,
-258,Aten 1 (Eten),eten1239,,etx,,
-259,Aten 2 (Eten),eten1239,,etx,,
-294,Bamessing (Kenswei Nsei),kens1251,,ndb,,
-288,Nta (Nde-Nsele-Nta),nden1250,,ndd,,
-286,Nde (Nde-Nsele-Nta),nden1250,,ndd,,
-287,Nsele (Nde-Nsele-Nta),nden1250,,ndd,,
-291,Ekajuk 1 (Ekajuk),ekaj1238,,eka,,
-292,Ekajuk 2 (Ekajuk),ekaj1238,,eka,,
-238,Lela (C'lela),clel1238,,dri,,
-188,Kurama,kura1249,,krh,,
-279,Ukpet (Ukpet-Ehom),ukpe1249,,akd,,
-236,Agaushi (Tsikimba),tsik1238,,kdl,,
-251,Gyong (Kagoma),kago1247,,kdm,,
-192,Ashe,ashe1269,,ahs,,
-222,Mbula-Bwazza,mbul1260,,mbu,,
-244,Bunu (Jere),jere1244,,jer,,
-245,Buji (Jere),jere1244,,jer,,
-219,Leyigha,leyi1238,,ayi,,
-304,Yogam (Ghomálá'),ghom1247,,bbj,,
-305,Te (Ghomálá'),ghom1247,,bbj,,
-302,Fusap (Ghomálá'),ghom1247,,bbj,,
-303,Jo (Ghomálá'),ghom1247,,bbj,,
-216,Lokaa,loka1252,,yaz,,
-223,Mama,mama1272,,mma,,
-183,Hun-Saare,huns1239,,dud,,
-232,Fe'fe',fefe1239,,fmp,,
-306,Tungi (Fe'fe'),fefe1239,,fmp,,
-197,Ayu,ayuu1242,,ayu,,
-246,Kulu 1 (Kulung),kulu1255,,bbu,,
-240,Camo (Kudu-Camo),kudu1241,,kov,,
-239,Kudu (Kudu-Camo),kudu1241,,kov,,
-204,Wannu,wann1241,,jub,,
-205,Wapan,wapa1235,,juk,,
-269,Jukun of Gwana (Hõne),hone1235,,juh,,
-187,Surubu,suru1258,,sde,,
-272,Oloibiri 1 (Ogbia),ogbi1239,,ogb,,
-203,Tarok,taro1263,,yer,,
-248,Hyam of Nok (Hyam),hyam1245,,jab,,
-235,Hasha,hash1238,,ybj,,
-198,Ake,akee1238,,aik,,
-299,Yemba Bafou 1 (Yemba),yemb1246,,ybb,,
-300,Yemba Bafou 2 (Yemba),yemb1246,,ybb,,
-182,Fungwa,fung1245,,ula,,
-212,Obolo,obol1243,,ann,,
-256,Nungu 1 (Nungu),nung1292,,rin,,
-257,Nungu 2 (Nungu),nung1292,,rin,,
-190,Kuturmi,kutu1262,,khj,,
-210,Anaang,anaa1238,,anw,,
-307,Ndanda (Nda'nda'),ndan1241,,nnz,,
-202,Eloyi,eloy1241,,afo,,
-289,Nkem (Nkem-Nkum),nkem1242,,isi,,
-290,Nkum (Nkem-Nkum),nkem1242,,isi,,
-211,Efik,efik1245,,efi,,
-209,Gokana,goka1239,,gkn,,
-241,Gbiri (Gbiri-Niragu),gbir1241,,grh,,
-242,Niragu (Gbiri-Niragu),gbir1241,,grh,,
-195,Ninzo,ninz1246,,nin,,
-281,Jaku (Labir),labi1245,,jku,,
-206,Bekwarra,bekw1241,,bkv,,
-201,Horom,horo1245,,hoe,,
-263,Fyem (Fyam),fyam1238,,pym,,
-270,Bokyi of Abu (Bokyi),boky1238,,bky,,
-271,Bokyi of Erwe (Bokyi),boky1238,,bky,,
-309,Mamenyan (Bamenyam),bame1260,,bce,,
-218,Legbo,legb1242,,agb,,
-253,Eggon 1 (Eggon),eggo1239,,ego,,
-254,Eggon 2 (Eggon),eggo1239,,ego,,
-255,Eggon 3 (Eggon),eggo1239,,ego,,
-185,Atsam,atsa1241,,cch,,
-226,Efutop,efut1242,,ofu,,
-214,Kohumono,kohu1244,,bcs,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+191,Doka,doka1242,Doka,dbi,Africa,10.2287,7.96099,Atlantic-Congo
+247,Lungu (Idun),idun1241,Idun,ldb,Africa,9.12585,7.77525,Atlantic-Congo
+296,Nkwen Mandankwe (Mendankwe-Nkwen),mend1261,Mendankwe-Nkwen,mfd,Africa,6.00034,10.2307,Atlantic-Congo
+295,Nkwen (Mendankwe-Nkwen),mend1261,Mendankwe-Nkwen,mfd,Africa,6.00034,10.2307,Atlantic-Congo
+208,Alege,aleg1238,Alege,alf,Africa,6.59423,9.00394,Atlantic-Congo
+278,"Mbembe Adun (Mbembe, Cross River)",cros1244,Cross River Mbembe,mfn,Africa,6.16926,8.23592,Atlantic-Congo
+224,Mbe,mbee1249,Mbe,mfo,Africa,6.57067,8.82998,Atlantic-Congo
+301,Ngwe Fontem (Ngwe),ngwe1238,Ngwe,nwe,Africa,5.49787,9.9028,Atlantic-Congo
+231,Ngwe,ngwe1238,Ngwe,nwe,Africa,5.49787,9.9028,Atlantic-Congo
+275,Akunakuna of Thomas (Agwagwune),agwa1247,Agwagwune,yay,Africa,5.81055,8.03166,Atlantic-Congo
+237,Kamuku of Rowlands (Cinda-Regi-Tiyal),cind1241,Yara,cdr,Africa,10.3419,5.84212,Atlantic-Congo
+243,Janji,janj1240,Janji,jni,Africa,10.1197,8.63029,Atlantic-Congo
+189,Sheni,shen1250,Sheni,scv,Africa,10.5256,8.63921,Atlantic-Congo
+229,Kom,komc1235,Kom (Cameroon),bkm,Africa,6.2596,10.3348,Atlantic-Congo
+267,Jibu,jibu1239,Jibu,jib,Africa,7.49214,11.3086,Atlantic-Congo
+268,Jibu in Meek (Jibu),jibu1239,Jibu,jib,Africa,7.49214,11.3086,Atlantic-Congo
+230,Bafut,bafu1246,Bafut,bfd,Africa,6.14153,10.1194,Atlantic-Congo
+234,Medumba,medu1238,Medumba,byv,Africa,5.10901,10.6118,Atlantic-Congo
+297,Megaka (Mengaka),meng1264,Mengaka,xmg,Africa,5.71399,10.3377,Atlantic-Congo
+282,Zhar (Jarawa),jara1263,Jarawa (Nigeria),jar,Africa,9.8,9.61,Atlantic-Congo
+283,Gingwak (Jarawa),jara1263,Jarawa (Nigeria),jar,Africa,9.8,9.61,Atlantic-Congo
+184,Piti,piti1243,Piti,pcn,Africa,10.1361,8.47037,Atlantic-Congo
+311,Mbo Central (Bakaka),baka1273,Bakaka,bqz,Africa,4.79991,9.80402,Atlantic-Congo
+200,Tyap,tyap1238,Tyap,kcg,Africa,9.75568,8.3082,Atlantic-Congo
+262,Sholio (Tyap),tyap1238,Tyap,kcg,Africa,9.75568,8.3082,Atlantic-Congo
+249,Vaghat (Vaghat-Ya-Bijim-Legeri),vagh1247,Vaghat-Ya-Bijim-Legeri,bij,Africa,9.64648,9.56547,Atlantic-Congo
+250,Ya (Vaghat-Ya-Bijim-Legeri),vagh1247,Vaghat-Ya-Bijim-Legeri,bij,Africa,9.64648,9.56547,Atlantic-Congo
+186,Amo,amoo1242,Amo,amo,Africa,10.3229,8.65405,Atlantic-Congo
+228,Meta',meta1238,Meta',mgo,Africa,5.88942,9.87416,Atlantic-Congo
+220,Kiong,kion1242,Kiong,kkm,Africa,5.20497,8.35234,Atlantic-Congo
+233,Mungaka,mung1266,Mungaka,mhk,Africa,5.89752,10.0294,Atlantic-Congo
+194,Cori,cori1240,Cori,cry,Africa,9.59,8.06,Atlantic-Congo
+308,Shu Pamen (Bamun),bamu1253,Bamun,bax,Africa,5.49017,10.8477,Atlantic-Congo
+193,Shamang,sham1277,Shamang,xsh,Africa,9.47,8.05163,Atlantic-Congo
+264,Eregba (Kpan),kpan1246,Kpan,kpk,Africa,7.58343,10.1642,Atlantic-Congo
+280,Batu of Meek (Batu),batu1255,Batu,btu,Africa,6.81588,10.9377,Atlantic-Congo
+207,Bete-Bendi,bete1262,Bete-Bendi,btt,Africa,6.62037,9.20189,Atlantic-Congo
+196,Che,chee1238,Che,ruk,Africa,10.0031,8.67024,Atlantic-Congo
+227,Nnam,nnam1238,Nnam,nbp,Africa,6.31319,8.48975,Atlantic-Congo
+217,Nkukoli,nkuk1238,Nkukoli,nbo,Africa,5.7562,8.28051,Atlantic-Congo
+284,Ekparabong (Ndoe),ndoe1238,Ndoe,nbb,Africa,6.08134,8.69131,Atlantic-Congo
+285,Balep (Ndoe),ndoe1238,Ndoe,nbb,Africa,6.08134,8.69131,Atlantic-Congo
+252,Nindem (Kaningkom-Nindem),kani1277,Kaningdon-Nindem,kdp,Africa,9.525,8.37644,Atlantic-Congo
+265,Kentu (Etkywan),etky1238,Etkywan,ich,Africa,7.13773,10.3501,Atlantic-Congo
+266,Nyidu (Etkywan),etky1238,Etkywan,ich,Africa,7.13773,10.3501,Atlantic-Congo
+298,Ngomba Bamendjina (Ngomba),ngom1272,Ngomba,jgo,Africa,5.63067,10.237,Atlantic-Congo
+181,Reshe,resh1242,Reshe,res,Africa,10.77046,4.62395,Atlantic-Congo
+225,Abanyom,aban1242,Abanyom,abm,Africa,6.30619,8.63055,Atlantic-Congo
+221,Abon,abon1238,Abon,abo,Africa,6.90621,10.8769,Atlantic-Congo
+310,East Oroko (Oroko),orok1266,Oroko,bdu,Africa,4.89504,9.15209,Atlantic-Congo
+260,Rigwe (Irigwe),irig1241,Irigwe,iri,Africa,9.85197,8.6525,Atlantic-Congo
+261,Northeast Izere (Izere),izer1241,Izere,izr,Africa,9.5,8.7,Atlantic-Congo
+199,Jju,jjuu1238,Jju,kaj,Africa,9.83116,7.97167,Atlantic-Congo
+215,Umon,umon1238,Umon,umm,Africa,5.37438,8.10335,Atlantic-Congo
+293,Lower Kenyang (Kenyang),keny1279,Kenyang,ken,Africa,5.58288,9.55918,Atlantic-Congo
+213,Kukele,kuke1242,Kukele,kez,Africa,6.70286,8.39343,Atlantic-Congo
+273,Ufia (Oring),orin1239,Oring,org,Africa,6.68753,8.12005,Atlantic-Congo
+274,Okpoto (Oring),orin1239,Oring,org,Africa,6.68753,8.12005,Atlantic-Congo
+276,Olulumo (Olulumo-Ikom),olul1245,Olulumo-Ikom,iko,Africa,5.97709,8.56546,Atlantic-Congo
+277,Ikom (Olulumo-Ikom),olul1245,Olulumo-Ikom,iko,Africa,5.97709,8.56546,Atlantic-Congo
+258,Aten 1 (Eten),eten1239,Eten,etx,Africa,9.73073,8.61443,Atlantic-Congo
+259,Aten 2 (Eten),eten1239,Eten,etx,Africa,9.73073,8.61443,Atlantic-Congo
+294,Bamessing (Kenswei Nsei),kens1251,Kenswei Nsei,ndb,Africa,6.01713,10.412,Atlantic-Congo
+288,Nta (Nde-Nsele-Nta),nden1250,Nde-Nsele-Nta,ndd,Africa,6.17426,8.49836,Atlantic-Congo
+286,Nde (Nde-Nsele-Nta),nden1250,Nde-Nsele-Nta,ndd,Africa,6.17426,8.49836,Atlantic-Congo
+287,Nsele (Nde-Nsele-Nta),nden1250,Nde-Nsele-Nta,ndd,Africa,6.17426,8.49836,Atlantic-Congo
+291,Ekajuk 1 (Ekajuk),ekaj1238,Ekajuk,eka,Africa,6.45731,8.55058,Atlantic-Congo
+292,Ekajuk 2 (Ekajuk),ekaj1238,Ekajuk,eka,Africa,6.45731,8.55058,Atlantic-Congo
+238,Lela (C'lela),clel1238,C'lela,dri,Africa,11.4653,5.26544,Atlantic-Congo
+188,Kurama,kura1249,Kurama,krh,Africa,10.4766,7.93507,Atlantic-Congo
+279,Ukpet (Ukpet-Ehom),ukpe1249,Ukpet-Ehom,akd,Africa,5.58316,8.10047,Atlantic-Congo
+236,Agaushi (Tsikimba),tsik1238,Tsikimba,kdl,Africa,9.60496,4.88739,Atlantic-Congo
+251,Gyong (Kagoma),kago1247,Kagoma,kdm,Africa,9.22607,8.18694,Atlantic-Congo
+192,Ashe,ashe1269,Ashe,ahs,Africa,9.36574,7.39443,Atlantic-Congo
+222,Mbula-Bwazza,mbul1260,Mbula-Bwazza,mbu,Africa,9.60769,12.2439,Atlantic-Congo
+244,Bunu (Jere),jere1244,Jere,jer,Africa,10.1962,8.95834,Atlantic-Congo
+245,Buji (Jere),jere1244,Jere,jer,Africa,10.1962,8.95834,Atlantic-Congo
+219,Leyigha,leyi1238,Leyigha,ayi,Africa,5.98832,8.20861,Atlantic-Congo
+304,Yogam (Ghomálá'),ghom1247,Ghomálá',bbj,Africa,5.39619,10.352,Atlantic-Congo
+305,Te (Ghomálá'),ghom1247,Ghomálá',bbj,Africa,5.39619,10.352,Atlantic-Congo
+302,Fusap (Ghomálá'),ghom1247,Ghomálá',bbj,Africa,5.39619,10.352,Atlantic-Congo
+303,Jo (Ghomálá'),ghom1247,Ghomálá',bbj,Africa,5.39619,10.352,Atlantic-Congo
+216,Lokaa,loka1252,Lokaa,yaz,Africa,5.91483,8.0933,Atlantic-Congo
+223,Mama,mama1272,Mama,mma,Africa,8.8062,8.78601,Atlantic-Congo
+183,Hun-Saare,huns1239,Hun-Saare,dud,Africa,10.7898,5.07312,Atlantic-Congo
+232,Fe'fe',fefe1239,Fe'fe',fmp,Africa,5.18158,10.1442,Atlantic-Congo
+306,Tungi (Fe'fe'),fefe1239,Fe'fe',fmp,Africa,5.18158,10.1442,Atlantic-Congo
+197,Ayu,ayuu1242,Ayu,ayu,Africa,9.2634,8.60225,Atlantic-Congo
+246,Kulu 1 (Kulung),kulu1255,Kulung (Nigeria),bbu,Africa,9.20815,11.04651,Atlantic-Congo
+240,Camo (Kudu-Camo),kudu1241,Kudu-Camo,kov,Africa,11.0819,9.07725,Atlantic-Congo
+239,Kudu (Kudu-Camo),kudu1241,Kudu-Camo,kov,Africa,11.0819,9.07725,Atlantic-Congo
+204,Wannu,wann1241,Wannu,jub,Africa,7.83859,8.96594,Atlantic-Congo
+205,Wapan,wapa1235,Wapan,juk,Africa,7.97862,9.83299,Atlantic-Congo
+269,Jukun of Gwana (Hõne),hone1235,Hõne,juh,Africa,9.79715,10.9206,Atlantic-Congo
+187,Surubu,suru1258,Vori,sde,Africa,10.2254,8.27136,Atlantic-Congo
+272,Oloibiri 1 (Ogbia),ogbi1239,Ogbia,ogb,Africa,4.75352,6.34034,Atlantic-Congo
+203,Tarok,taro1263,Tarok,yer,Africa,8.98356,10.0288,Atlantic-Congo
+248,Hyam of Nok (Hyam),hyam1245,Hyam,jab,Africa,9.57832,7.95163,Atlantic-Congo
+235,Hasha,hash1238,Hasha,ybj,Africa,9.14063,8.66137,Atlantic-Congo
+198,Ake,akee1238,Ake,aik,Africa,8.59543,8.75768,Atlantic-Congo
+299,Yemba Bafou 1 (Yemba),yemb1246,Yemba,ybb,Africa,5.47421,10.0214,Atlantic-Congo
+300,Yemba Bafou 2 (Yemba),yemb1246,Yemba,ybb,Africa,5.47421,10.0214,Atlantic-Congo
+182,Fungwa,fung1245,Fungwa,ula,Africa,10.5021,6.59138,Atlantic-Congo
+212,Obolo,obol1243,Obolo,ann,Africa,4.62851,7.81985,Atlantic-Congo
+256,Nungu 1 (Nungu),nung1292,Nungu,rin,Africa,8.95481,8.62164,Atlantic-Congo
+257,Nungu 2 (Nungu),nung1292,Nungu,rin,Africa,8.95481,8.62164,Atlantic-Congo
+190,Kuturmi,kutu1262,Kuturmi,khj,Africa,10.1485,7.96524,Atlantic-Congo
+210,Anaang,anaa1238,Anaang,anw,Africa,4.94832,7.57969,Atlantic-Congo
+307,Ndanda (Nda'nda'),ndan1241,Nda'nda',nnz,Africa,5.14715,10.3942,Atlantic-Congo
+202,Eloyi,eloy1241,Eloyi,afo,Africa,8.24696,7.97061,Atlantic-Congo
+289,Nkem (Nkem-Nkum),nkem1242,Nkem-Nkum,isi,Africa,6.59158,8.68668,Atlantic-Congo
+290,Nkum (Nkem-Nkum),nkem1242,Nkem-Nkum,isi,Africa,6.59158,8.68668,Atlantic-Congo
+211,Efik,efik1245,Efik,efi,Africa,4.89379,8.38121,Atlantic-Congo
+209,Gokana,goka1239,Gokana,gkn,Africa,4.61889,7.34457,Atlantic-Congo
+241,Gbiri (Gbiri-Niragu),gbir1241,Gbiri-Niragu,grh,Africa,10.3923,8.43157,Atlantic-Congo
+242,Niragu (Gbiri-Niragu),gbir1241,Gbiri-Niragu,grh,Africa,10.3923,8.43157,Atlantic-Congo
+195,Ninzo,ninz1246,Ninzo,nin,Africa,8.95791,8.47328,Atlantic-Congo
+281,Jaku (Labir),labi1245,Labir,jku,Africa,10.4847,9.59527,Atlantic-Congo
+206,Bekwarra,bekw1241,Bekwarra,bkv,Africa,6.73737,8.86489,Atlantic-Congo
+201,Horom,horo1245,Horom,hoe,Africa,9.05742,8.98482,Atlantic-Congo
+263,Fyem (Fyam),fyam1238,Fyam,pym,Africa,9.59006,9.22293,Atlantic-Congo
+270,Bokyi of Abu (Bokyi),boky1238,Bokyi,bky,Africa,6.10475,9.05875,Atlantic-Congo
+271,Bokyi of Erwe (Bokyi),boky1238,Bokyi,bky,Africa,6.10475,9.05875,Atlantic-Congo
+309,Mamenyan (Bamenyam),bame1260,Bamenyam,bce,Africa,5.77049,10.3302,Atlantic-Congo
+218,Legbo,legb1242,Legbo,agb,Africa,6.02645,7.98385,Atlantic-Congo
+253,Eggon 1 (Eggon),eggo1239,Eggon,ego,Africa,8.71442,8.45686,Atlantic-Congo
+254,Eggon 2 (Eggon),eggo1239,Eggon,ego,Africa,8.71442,8.45686,Atlantic-Congo
+255,Eggon 3 (Eggon),eggo1239,Eggon,ego,Africa,8.71442,8.45686,Atlantic-Congo
+185,Atsam,atsa1241,Atsam,cch,Africa,9.95914,8.48301,Atlantic-Congo
+226,Efutop,efut1242,Efutop,ofu,Africa,5.92431,8.35425,Atlantic-Congo
+214,Kohumono,kohu1244,Kohumono,bcs,Africa,5.92596,7.96202,Atlantic-Congo

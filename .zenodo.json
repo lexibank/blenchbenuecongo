@@ -1,0 +1,21 @@
+{
+    "title": "Benue-Congo Comparative Word List",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>CITATION</p>\n</blockquote>"
+}
