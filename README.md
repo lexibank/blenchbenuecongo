@@ -1,8 +1,8 @@
-# Benue-Congo Comparative Word List
+# CLDF dataset derived from Williamson et al.'s "Benue-Congo Comparative Word List" from 1973
 
 Cite the source dataset as
 
-> CITATION
+> Williamson, Kay (ed.). 1973. Benue-Congo Comparative Wordlist, Volume II. Ibadan, Nigeria: West African Linguistic Society.
 
 Available online at http://comparalex.org/?page=stdlist&id=17
 

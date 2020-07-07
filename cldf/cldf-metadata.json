@@ -1,20 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "CITATION",
+    "dc:bibliographicCitation": "Williamson, Kay (ed.). 1973. Benue-Congo Comparative Wordlist, Volume II. Ibadan, Nigeria: West African Linguistic Society.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://comparalex.org/?page=stdlist&id=17",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Benue-Congo Comparative Word List",
+    "dc:title": "CLDF dataset derived from Williamson et al.'s \"Benue-Congo Comparative Word List\" from 1973",
     "dcat:accessURL": "https://github.com/lexibank/blenchbenuecongo",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/blenchbenuecongo",
-            "dc:created": "e4aac00"
+            "dc:created": "647ac70"
         },
         {
             "rdf:type": "prov:Entity",
