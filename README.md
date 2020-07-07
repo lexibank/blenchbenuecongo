@@ -9,6 +9,7 @@ Available online at http://comparalex.org/?page=stdlist&id=17
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/blenchbenuecongo.svg?branch=master)](https://travis-ci.org/lexibank/blenchbenuecongo)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
